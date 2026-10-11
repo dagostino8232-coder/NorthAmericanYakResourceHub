@@ -1,0 +1,10 @@
+{
+  "description": "Centralizes comprehensive North American yak information including husbandry, genetics, nutrition, and community resources for enthusiasts and researchers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
